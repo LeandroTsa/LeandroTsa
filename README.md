@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LeandroTsa
-- 👀 I’m interested in relaxing
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... IDK
